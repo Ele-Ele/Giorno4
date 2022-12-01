@@ -1,0 +1,222 @@
+/* IMPOSTAZIONI GENERALI */
+
+/* HEADER */
+header {
+  background-color: rgb(64, 134, 179);
+  text-align: center;
+  width: 400px;
+
+  box-shadow: 10px 10px 10px rgba(201, 199, 199, 0.555);
+}
+header div p {
+  color: white;
+  text-align: center;
+}
+
+.img {
+  width: 300;
+  height: 300;
+}
+
+/* MAIN */
+body {
+  background-image: url(../img/sfondo.png);
+  line-height: 1.5;
+  width: 400px;
+  height: 400px;
+  margin-left: 25px;
+  margin-right: 10px;
+
+  font-family: poppins;
+}
+main {
+  background-color: white;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-weight: 500;
+  font-size: small;
+}
+h1 {
+  font-size: 30px;
+  font-style: bold;
+  padding-bottom: 1em;
+  font-weight: 700;
+}
+.grigio {
+  color: rgb(182, 176, 176);
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+span {
+  color: rgb(202, 64, 168);
+  font-style: bold;
+  font-weight: 700;
+}
+.p1 {
+  padding-bottom: 1em;
+}
+
+ul {
+  padding-left: 3em;
+}
+ol {
+  padding-left: 3em;
+}
+code {
+  background-color: rgba(230, 230, 230, 0.918);
+  border-radius: 5px;
+  border: 1px solid rgb(156, 154, 154);
+}
+
+.p5 {
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+a {
+  color: rgb(0, 173, 253);
+  font-weight: 700;
+}
+iframe {
+  border-radius: 20px;
+  padding-bottom: 1em;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+.p3 {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.p2 {
+  padding-bottom: 1em;
+}
+
+.p4 {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+/* TABELLE */
+caption {
+  font-weight: 700;
+}
+
+table {
+  margin: 10px auto;
+  width: 350;
+}
+
+tr th {
+  padding-bottom: 1em;
+  padding-right: 1em;
+  height: 3em;
+  border-top: solid 1px rgb(32, 133, 248);
+  border-bottom: solid 1px rgb(32, 133, 248);
+  background-color: rgb(32, 133, 248);
+  text-align: center;
+}
+
+tr td {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+.td {
+  background-color: rgba(211, 211, 211, 0.589);
+  border-top: 1px solid rgba(211, 211, 211, 0.74);
+  border-bottom: 1px solid rgba(211, 211, 211, 0.74);
+}
+
+.tr {
+  border-bottom: 1px solid rgb(32, 133, 248);
+}
+/* FORM */
+.p6 {
+  font-weight: 700;
+  font-size: medium;
+}
+
+.div2 {
+  text-align: center;
+  border: 1px solid lightgray;
+  margin: 10px auto;
+  width: 350px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: lightgrey;
+}
+
+button {
+  background-color: rgb(32, 133, 248);
+  color: white;
+  border-color: rgb(32, 133, 248);
+}
+/* ELEMENTI NELL' ASIDE */
+.p7 {
+  text-align: center;
+  font-weight: 700;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: medium;
+}
+.div4 {
+  border: 1px solid lightgray;
+  margin: 10px auto;
+  width: 350px;
+  padding-top: 1em;
+  padding-bottom: 2em;
+  background-color: lightgrey;
+}
+.p8 {
+  text-align: end;
+  padding-right: 1em;
+  font-size: smaller;
+}
+.div5 {
+  border: 1px solid lightgray;
+  margin: 10px auto;
+  width: 350px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: lightgrey;
+}
+.p9 {
+  text-align: end;
+  padding-right: 1em;
+  font-size: smaller;
+}
+.div6 {
+  border: 1px solid lightgray;
+  width: 350px;
+  margin: 10px auto;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: lightgrey;
+}
+.p10 {
+  text-align: end;
+  padding-right: 1em;
+  font-size: smaller;
+}
+.a1 {
+  padding-left: 1em;
+}
+.p11 {
+  padding-left: 3em;
+}
+/* FOOTER */
+footer {
+  background-color: rgb(64, 134, 179);
+  padding-bottom: 2em;
+  width: 400px;
+}
+.p12 {
+  text-align: center;
+  font-size: smaller;
+  padding-top: 1em;
+  color: white;
+}
+.a2 {
+  color: violet;
+}
